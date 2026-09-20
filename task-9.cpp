@@ -1,5 +1,5 @@
 /*
-1023. Camelcase Matching
+1023. Camelcase Matching (Medium)
 */
 
 class Solution {
